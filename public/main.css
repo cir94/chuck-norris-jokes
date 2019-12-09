@@ -1,0 +1,11 @@
+body {
+    background-color: #363636;
+    font-family: Arial;
+}
+
+#jokes {
+    text-align: center;
+    padding-top: 20%;
+    color: white;
+    font-size: 30px;
+}
