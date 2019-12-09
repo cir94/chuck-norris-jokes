@@ -1,5 +1,6 @@
 require 'sinatra'
 require 'chuck_norris'
+require './joke.rb'
 
 get '/' do
     @joke = ChuckNorris::JokeFinder.get_joke
